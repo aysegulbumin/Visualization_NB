@@ -1,1 +1,1 @@
-# Images Maximizing Activations
+# Images Maximizing Activations of VGG16
